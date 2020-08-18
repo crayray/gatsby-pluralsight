@@ -1,0 +1,15 @@
+
+// Nexted classes, which is a SASS thing:
+.content{
+    background-color: white;
+    padding: 20px;
+
+    .header {
+        color: red;
+    }
+
+    .error-message {
+        font-size: 20px;
+        color: grey;
+    }
+}
